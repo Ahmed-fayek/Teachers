@@ -1,0 +1,29 @@
+{
+    "students":[
+{
+    "id":1,
+    "FirstName":"Ahmed",
+    "LastNAme":"Fayek",
+    "Age":25,
+    "Classroom":1,
+    "GPA":2.5,
+    "TeacherId":1
+},{
+        "id":2,
+    "FirstName":"Mohammed",
+    "LastNAme":"Mamdoh",
+    "Age":23,
+    "Classroom":3,
+    "GPA":2.2,
+    "TeacherId":2
+}
+],
+    "teachers":[
+{
+    "id":1,
+    "Name":"Ahmed Fayek",
+    "Age":25,
+    "Teaches":"Math"
+}
+]
+}
