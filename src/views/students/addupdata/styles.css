@@ -1,0 +1,54 @@
+.form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-feild {
+    margin-bottom: 10px;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+input ,select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.submit-feild {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cansel-feild{
+        background-color: #fa2929;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            margin: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+}
